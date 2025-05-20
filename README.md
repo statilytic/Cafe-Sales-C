@@ -1,6 +1,6 @@
 # Sales Cafe Cleaning Project using SQL
 
-This project focuses on cleaning raw sales data from a cafe in preparation for analysis. The data consisted of missing values and inconsistencies.
+This project focuses on cleaning raw sales data from a cafe in preparation for analysis. The data consists of missing values and inconsistencies.
 
 ## Data
 
